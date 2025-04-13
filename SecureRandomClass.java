@@ -18,7 +18,5 @@ public class SecureRandomClass{
 		
 		long number2 = secureRandom.nextLong(900_000_000_000L);
 		System.out.printf("The generatd number is %d%n",number2);
-		
-		
 	}
 }
